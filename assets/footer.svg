@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="160" viewBox="0 0 1200 160" role="img" aria-label="animated wave footer">
+  <path d="M0,95 C300,65 900,125 1200,95 C1500,65 2100,125 2400,95 L2400,160 L0,160 Z" fill="#58a6ff" opacity="0.14">
+    <animateTransform attributeName="transform" type="translate" from="-1200,0" to="0,0" dur="9s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0,110 C300,86 900,134 1200,110 C1500,86 2100,134 2400,110 L2400,160 L0,160 Z" fill="#bc8cff" opacity="0.12">
+    <animateTransform attributeName="transform" type="translate" from="0,0" to="-1200,0" dur="13s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0,125 C300,107 900,143 1200,125 C1500,107 2100,143 2400,125 L2400,160 L0,160 Z" fill="#3fb950" opacity="0.10">
+    <animateTransform attributeName="transform" type="translate" from="-1200,0" to="0,0" dur="17s" repeatCount="indefinite"/>
+  </path>
+</svg>
